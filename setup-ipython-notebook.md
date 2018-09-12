@@ -7,8 +7,9 @@
 
 # run the following with sudo
 
-sudo apt-get install python-pip virtualenv
-sudo apt-get install build-essential python-dev
+sudo apt-get install virtualenv build-essential
+sudo apt-get install python-dev python-pip
+
 mkdir ~/breaking
 cd ~/breaking
 
